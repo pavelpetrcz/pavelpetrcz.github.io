@@ -2,4 +2,4 @@
 
 ### Výlety
 
-- [Enns](enns.md)
+- [Okolo řeky Enns](enns.md)
