@@ -40,3 +40,6 @@ Na začátku jsem si nebyl zcela jistý tím, že někdo mou ukázku, jak to vyp
 
 * [https://www.pycryptodome.org/en/latest/src/signature/pkcs1_v1_5.html?highlight=sign#pkcs-1-v1-5-rsa](https://www.pycryptodome.org/en/latest/src/signature/pkcs1_v1_5.html?highlight=sign#pkcs-1-v1-5-rsa)
 * [https://tools.ietf.org/html/rfc8017](https://tools.ietf.org/html/rfc8017)
+
+
+{% gist 58bca38328536d2b86d71af6cdf9a6db %}
