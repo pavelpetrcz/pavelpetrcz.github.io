@@ -1,7 +1,5 @@
 ## **Podpis RSA klíčem v Jupyter Lab krok za krokem**
 
-![Obrázek](resources/img/atharva-lele-GSXHEh-5IMI-unsplash.jpg)
-
 Pro jeden z pracovních úkolů bylo nezbytné rozchodit podepisování a ověřování sadou klíčů. Aby vývoj probíhal hladce a bez zbytečných zádrhelů tak z mého subjektivního pohledu je nejlepší, když vývojářům dáte jasné zadání k jaké hodnotě se mají dopočíst.
 
 Rozhodnutí sestavit referenční způsob výpočtu s hodnotami mezivýsledků jsem učinil i s vědomím, že kolegové vývojáři budou reálné výpočty dělat ve třech jazycích jako Swift, Kotlin a Java.
@@ -14,11 +12,9 @@ Za předpokladu, že máte instalovanou Anacondu tak v hlavní nabídce Windows 
 
 `jupyter lab`
 
-V něm vytvořte nový notebook ve kterém celou referenční implementaci provedeme.
+V něm vytvořte nový notebook ve kterém celou referenční implementaci provedeme. Pro jednoduchost jsem připravil Gist na Githubu, kde si můžete celý postup stáhnout a importovat.
 
-Pro jednoduchost jsem připravil Gist na Githubu, kde si můžete celý postup stáhnout a importovat.
-
-<script src="https://gist.github.com/pavelpetrcz/58bca38328536d2b86d71af6cdf9a6db.js"></script>
+{% gist 58bca38328536d2b86d71af6cdf9a6db %}
 
 Princip výpočtu je jednoduchý a v Gistu popsaný, ale i tak ho stručně popíši ještě sem s nějakými vedlejšími poznámkami pokud budou potřeba.
 
@@ -40,6 +36,3 @@ Na začátku jsem si nebyl zcela jistý tím, že někdo mou ukázku, jak to vyp
 
 * [https://www.pycryptodome.org/en/latest/src/signature/pkcs1_v1_5.html?highlight=sign#pkcs-1-v1-5-rsa](https://www.pycryptodome.org/en/latest/src/signature/pkcs1_v1_5.html?highlight=sign#pkcs-1-v1-5-rsa)
 * [https://tools.ietf.org/html/rfc8017](https://tools.ietf.org/html/rfc8017)
-
-
-{% gist 58bca38328536d2b86d71af6cdf9a6db %}
