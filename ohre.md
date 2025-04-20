@@ -1,5 +1,5 @@
 # Okolo Ohře
-- https://mapy.cz/s/repacubare 
+- [mapa](https://mapy.cz/s/repacubare)
 - většinu cesty v případě nouze lze nasednout na vlak a dojet - tam nebo zpět nebo kam je potřeba
 - spaní jsem zatím neřešil ale chtěl bych najít nějaký levný hotel s úschovou kol nebo chatky v kempu
 
