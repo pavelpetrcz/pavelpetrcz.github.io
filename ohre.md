@@ -10,7 +10,7 @@
   - Prohlídka hradní kaple, věže a nádvoří  
   - Děti si užijí průzkum starobylého areálu  
   - *Adresa:* Dobrovského 208/21, Cheb
-**Lanové centrum Trinity**  
+- Lanové centrum Trinity
   - Dobrodružství v korunách stromů  
   - Trasy pro děti i dospělé, instruktáž a bezpečnostní vybavení  
   - *Adresa:* Podhrad, Cheb
