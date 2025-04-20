@@ -3,13 +3,13 @@
 - většinu cesty v případě nouze lze nasednout na vlak a dojet - tam nebo zpět nebo kam je potřeba
 - spaní jsem zatím neřešil ale chtěl bych najít nějaký levný hotel s úschovou kol nebo chatky v kempu
 
-### středa
-- odpoledne odjezd - IC 560 Krušnohor - 3h 15m 
+### první den
 - odjezd do Chebu
 - ubytování se
+- hrad Cheb - prohlídka
+- 
 
-### čtvrtek
-- prohlídka Chebu
+### druhý den
 - odjezd směrem Sokolov
 - v Sokolovně je rozhledna, můžeme projít centrum města, nebo prostě odpočívat v parku / na hřišti se zmrzlinou
 
