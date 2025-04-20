@@ -6,8 +6,21 @@
 ### první den
 - odjezd do Chebu
 - ubytování se
-- hrad Cheb - prohlídka
-- 
+- dopoledne - hrad Cheb - prohlídka
+  - Prohlídka hradní kaple, věže a nádvoří  
+  - Děti si užijí průzkum starobylého areálu  
+  - *Adresa:* Dobrovského 208/21, Cheb
+**Lanové centrum Trinity**  
+  - Dobrodružství v korunách stromů  
+  - Trasy pro děti i dospělé, instruktáž a bezpečnostní vybavení  
+  - *Adresa:* Podhrad, Cheb
+
+
+- Hřiště a odpočinek v Krajince
+  - Velké dětské hřiště, prolézačky, pískoviště  
+  - Možnost dát si kávu a zmrzlinu v Krajinka Café  
+  - *Adresa:* Krajinka u Ohře, pěší zóna z centra
+
 
 ### druhý den
 - odjezd směrem Sokolov
