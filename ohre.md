@@ -14,8 +14,6 @@
   - Dobrodružství v korunách stromů  
   - Trasy pro děti i dospělé, instruktáž a bezpečnostní vybavení  
   - *Adresa:* Podhrad, Cheb
-
-
 - Hřiště a odpočinek v Krajince
   - Velké dětské hřiště, prolézačky, pískoviště  
   - Možnost dát si kávu a zmrzlinu v Krajinka Café  
@@ -24,9 +22,13 @@
 
 ### druhý den
 - odjezd směrem Sokolov
-- v Sokolovně je rozhledna, můžeme projít centrum města, nebo prostě odpočívat v parku / na hřišti se zmrzlinou
+- ubytování - [Parkhotel Sokolov](https://www.parkhotel-sokolov.cz/)
+- v odpočinek ve vodním světě v hotelu 
 
-### pátek
+### třetí den
+- prohlídka Sokolova
+
+### čtvrtý den
 - odjezd na Karlovy Vary
 - po cestě zastávka na Lokti
 - pak dojezd do Varů
