@@ -17,12 +17,13 @@
 
 
 ### Kroužková angličtina - Rezonance
-* [Human body song](https://www.youtube.com/watch?v=XfS8O4KlHVM))
+* [Human body song](https://www.youtube.com/watch?v=XfS8O4KlHVM)
 * [Christmas song](https://www.youtube.com/watch?v=QYyhDvuq8_Y)
 * [Put on Your Shoes](https://www.youtube.com/watch?v=-jBfb33_KHU)
 * [Months of year](https://www.youtube.com/watch?v=omkuE6Wa5kQ)
 * [Days in week](https://www.youtube.com/watch?v=36n93jvjkDs)
 * [Tvary](https://www.youtube.com/watch?v=lcl8uB2AWM0)
+* [Sugar, Sugar, Yes or No- Fun Dental Song for Kids](https://www.youtube.com/watch?v=GlbeCn1jU3A)
 
 
 ### Ostatní pomůcky
