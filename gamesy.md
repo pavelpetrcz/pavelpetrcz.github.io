@@ -1,4 +1,5 @@
 ### Český jazyk a pravopis
+#### 2.rocnik
 * [Párové hlásky Ž x Š](https://wordwall.net/cs/resource/53837850)
 * [Párové hlásky P x B](https://wordwall.net/cs/resource/53838106)
 * [Párové souhlásky h-ch, d-t, z-s...](https://wordwall.net/cs/resource/6206182)
@@ -7,14 +8,19 @@
 * [Vlastní jména](https://wordwall.net/cs/resource/6072045)
 * [Znaménka za větou](https://wordwall.net/cs/resource/79780353)
 
+#### 3.rocnik
+* [Párové souhlásky] (https://wordwall.net/cs/resource/10434548/p%C3%A1rov%C3%A9-souhl%C3%A1sky)
+
 ------
 ### Matematika
+#### 2.rocnik
 * [Násobilka 3](https://wordwall.net/cs/resource/13991081)
 * [Malá násobilka - pexeso](https://wordwall.net/cs/resource/12667597)
 * [Matematické operace (AfifEdu)](https://game.afifedu.com/)
 * [Dělení se zbytkem](https://wordwall.net/cs/resource/42432184)
 * [Geometrie 2. ročník](https://wordwall.net/cs/resource/16059301)
-
+#### 3.rocnik
+* [Násobilka] (https://wordwall.net/cs/resource/16753433/n%C3%A1sobilka)
 
 ### Kroužková angličtina - Rezonance
 * [Human body song](https://www.youtube.com/watch?v=XfS8O4KlHVM)
